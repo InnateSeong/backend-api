@@ -10,6 +10,6 @@ namespace backend_api
 
         public string? Summary { get; set; }
 
-        public string? number { get; set; }
+        public string? Integer { get; set; }
     }
 }
